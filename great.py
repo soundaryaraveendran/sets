@@ -6,4 +6,4 @@ if len(string1)>len(string2):
 elif len(string1)<len(string2):
     print(string[1])
 elif len(string1)==len(string2):
-    print(string[0])
+    print(string[1])
